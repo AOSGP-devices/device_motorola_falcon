@@ -1,0 +1,2 @@
+add_lunch_combo citrus_falcon-userdebug
+add_lunch_combo citrus_falcon-eng
